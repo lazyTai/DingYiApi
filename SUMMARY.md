@@ -1,6 +1,5 @@
 # 定易api文档
 
-this is test update
 * [1.Use]()
     * [1.1 登入界面](./src/1/1.1.md)
         * [1.1.1. 登入](./src/1/1.1.md)
